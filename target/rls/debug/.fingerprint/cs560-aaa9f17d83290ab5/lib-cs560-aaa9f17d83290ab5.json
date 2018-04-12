@@ -1,1 +1,0 @@
-{"rustc":17244551033254524728,"features":"[]","target":4113945093604337037,"profile":433550580157006471,"path":10872709659218687626,"deps":[["time v0.1.39",13052923504357932723]],"local":[{"MtimeBased":[[1522946773,365267778],".fingerprint/cs560-aaa9f17d83290ab5/dep-lib-cs560-aaa9f17d83290ab5"]}],"rustflags":["--error-format=json"]}
