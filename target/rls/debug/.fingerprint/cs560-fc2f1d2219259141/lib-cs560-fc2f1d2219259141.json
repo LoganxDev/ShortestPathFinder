@@ -1,0 +1,1 @@
+{"rustc":17244551033254524728,"features":"[]","target":4113945093604337037,"profile":14920333160934506728,"path":10872709659218687626,"deps":[["fnv v1.0.6",9668985870936014373]],"local":[{"MtimeBased":[[1523484498,1371704],".fingerprint/cs560-fc2f1d2219259141/dep-lib-cs560-fc2f1d2219259141"]}],"rustflags":["--error-format=json"]}
